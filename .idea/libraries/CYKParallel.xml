@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="CYKParallel">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/CYKParallel.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
